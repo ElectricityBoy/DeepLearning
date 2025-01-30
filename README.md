@@ -37,7 +37,14 @@
         Validação: 0.1621
         🔹 Como a perca do treino e validação é baixa, tem-se que não há overfitting significativo.
 
-## Equipe
+
+### Treinamento do Modelo - Teste e Validação
+
+<img src="acuracia.png" align="center" width = "500"/>
+
+
+
+## Equipe 6 - Colaboradores
 
 <table>
   <tr>
